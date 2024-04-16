@@ -16,7 +16,7 @@
     "aws-appsync-auth-link": "^2.0.2",
     "aws-appsync-subscription-link": "^2.1.0",
     "clsx": "^1.1.0",
-    "gatsby": "^2.20.12",
+    "gatsby": "^2.24.80",
     "gatsby-image": "^2.3.1",
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-material-ui": "^2.1.6",
