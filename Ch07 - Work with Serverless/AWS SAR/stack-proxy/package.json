@@ -3,7 +3,7 @@
     "aws-sdk": "^2.619.0",
     "axios": "^0.19.2",
     "bluebird": "^3.5.4",
-    "cfn-lambda": "^4.0.0",
+    "cfn-lambda": "^5.0.0",
     "clone": "^2.1.2",
     "crypto": "^1.0.1",
     "debug": "^4.1.1",
@@ -13,7 +13,7 @@
     "lodash.find": "^4.6.0",
     "lodash.map": "^4.6.0",
     "middy": "^0.33.2",
-    "middy-reroute": "^2.1.4"
+    "middy-reroute": "^2.1.5"
   },
   "scripts": {
     "build": "webpack-cli",
